@@ -1,0 +1,9 @@
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\bin\Debug\Santino Browser.exe
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\bin\Debug\Santino Browser.pdb
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino_Browser.Form1.resources
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino_Browser.Properties.Resources.resources
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino Browser.csproj.GenerateResource.cache
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino Browser.csproj.CoreCompileInputs.cache
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino Browser.exe
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino Browser.pdb
+C:\Users\Santino\source\repos\Llamdou\Santino Browser\obj\Debug\Santino Browser.csproj.AssemblyReference.cache
